@@ -1,0 +1,13 @@
+name = "Create: Dreams & Desires"
+filename = "Create-DnDesire-1.20.1-0.1a.Release-Early-Dev.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JmybsfWs/versions/EIfTFqT2/Create-DnDesire-1.20.1-0.1a.Release-Early-Dev.jar"
+hash-format = "sha256"
+hash = "9ccdc8c16317f7af30fa3991e4de10e03dde70ad042df6e9dcad34f855614022"
+
+[update]
+[update.modrinth]
+mod-id = "JmybsfWs"
+version = "EIfTFqT2"

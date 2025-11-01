@@ -1,0 +1,13 @@
+name = "YUNG's Better Jungle Temples"
+filename = "YungsBetterJungleTemples-1.20-Forge-2.0.5.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/z9Ve58Ih/versions/CXQc6EnZ/YungsBetterJungleTemples-1.20-Forge-2.0.5.jar"
+hash-format = "sha256"
+hash = "728c0a807742356887edf7d4f736b3870b7c84007ec9c495c27da1dc0b61078d"
+
+[update]
+[update.modrinth]
+mod-id = "z9Ve58Ih"
+version = "CXQc6EnZ"

@@ -1,0 +1,13 @@
+name = "YUNG's Better Dungeons"
+filename = "YungsBetterDungeons-1.20-Forge-4.0.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/o1C1Dkj5/versions/kPiQ6v4q/YungsBetterDungeons-1.20-Forge-4.0.4.jar"
+hash-format = "sha256"
+hash = "93c24e4075c51da0866f3fc92322bdb60e590ac2cd78dce275460839c54c36f5"
+
+[update]
+[update.modrinth]
+mod-id = "o1C1Dkj5"
+version = "kPiQ6v4q"

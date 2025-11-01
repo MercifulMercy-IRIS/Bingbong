@@ -1,0 +1,13 @@
+name = "Eidolon:Repraised"
+filename = "eidolon_repraised-1.20.1-0.3.8.15.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eWX2m1eM/versions/NJrT0yyU/eidolon_repraised-1.20.1-0.3.8.15.jar"
+hash-format = "sha256"
+hash = "79db1627123a92de0b3155fb4611f8b99ec1f8d503eace0a304d2362ca16d229"
+
+[update]
+[update.modrinth]
+mod-id = "eWX2m1eM"
+version = "NJrT0yyU"

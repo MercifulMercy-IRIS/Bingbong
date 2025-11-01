@@ -1,0 +1,7 @@
+name = "patchouli"
+filename = "Patchouli-1.20.1-83-FORGE.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/nU0bVIaL/versions/WLoCqsiV/Patchouli-1.20.1-83-FORGE.jar"
+hash-format = "sha256"
+hash = "e808c9279d1d1b083ab34e820c9b22b92c15d471e5614f9b2779f4e256723d04"

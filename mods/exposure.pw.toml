@@ -1,0 +1,13 @@
+name = "Exposure"
+filename = "exposure-1.20.1-1.7.16-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hB899VmG/versions/Wk43p4gt/exposure-1.20.1-1.7.16-forge.jar"
+hash-format = "sha256"
+hash = "55a8351bffc41b0d4a520d004c05561d4d76c1a1128f364bd4a44251c00f1de9"
+
+[update]
+[update.modrinth]
+mod-id = "hB899VmG"
+version = "Wk43p4gt"
