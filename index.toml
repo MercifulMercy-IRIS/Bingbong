@@ -301,11 +301,6 @@ hash = "a768c5c348ab44ac8386ed3f6713a86680028c6cebe334d21b580be56f34c844"
 metafile = true
 
 [[files]]
-file = "mods/dimensionaldoors.pw.toml"
-hash = "a9f566c176ece1cd0e88b8110f89a9fccfe3b501840188829010a4dead1cb6ec"
-metafile = true
-
-[[files]]
 file = "mods/domum-ornamentum.pw.toml"
 hash = "07b1925837caa1cc5baf69f70ff9ef552db09506d2d9dd0c09c7798f911735f3"
 metafile = true
