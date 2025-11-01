@@ -541,6 +541,11 @@ hash = "d29b209fde3072e8307f59278e949d103da853ff8ed62bf1f367338d5f4acc77"
 metafile = true
 
 [[files]]
+file = "mods/mru.pw.toml"
+hash = "5cd6833ccd116b7ac89cee0c206b85dc2b9033bf81dd1c59018118a63e01476c"
+metafile = true
+
+[[files]]
 file = "mods/multi-piston.pw.toml"
 hash = "deb08bfc951b9cb26cb638f598cff9c104676380b82d3dbb533687c4d4784a45"
 metafile = true
@@ -663,6 +668,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "e42fb376833ce7f54253d38b8c6ba461bf779c66db1bec75c0f2126c6b83bd70"
+metafile = true
+
+[[files]]
+file = "mods/sound.pw.toml"
+hash = "8231529af273f1950af6d239b9b21a14d25fd8f834f0017b2a6120a6cb9b28e9"
 metafile = true
 
 [[files]]
