@@ -396,11 +396,6 @@ hash = "32f940cb64f1634b81e87afe5a7742a95898266b9ecf69db96861f4248c769b4"
 metafile = true
 
 [[files]]
-file = "mods/ftbchunks.pw.toml"
-hash = "69b370de714f79353f2237880134653f1170aa055967a66da6c4aab8babeae8b"
-metafile = true
-
-[[files]]
 file = "mods/garnished-botany-pots.pw.toml"
 hash = "5d8d10dd825e3ec3d3083e005708facd0ceef90017d0d8bf321a8818f39abe9f"
 metafile = true
