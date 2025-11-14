@@ -571,6 +571,11 @@ hash = "3bcdf60c24882b1a562bb09b96972b8948f4f96178896c6dea734f958eec9107"
 metafile = true
 
 [[files]]
+file = "mods/octolib.pw.toml"
+hash = "dffd593e7ac825c610ae18d2c9dd94dfd426eae87a59c6a3135ce1ed1c575d3b"
+metafile = true
+
+[[files]]
 file = "mods/oculus.pw.toml"
 hash = "c128b30b14ad0f4c51741794948b1bb71b029d5b09dc069b28e6687019db5b29"
 metafile = true
