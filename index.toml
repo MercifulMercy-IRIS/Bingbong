@@ -606,11 +606,6 @@ hash = "1a15193250f49d292051ac43a1a6ec5fc91afde1df6ea146ee28257eb6cc3902"
 metafile = true
 
 [[files]]
-file = "mods/relics.pw.toml"
-hash = "9b77340cf2d78819d558e33d2b9a0cab39f35363410fff7c94108d6aa06c4d18"
-metafile = true
-
-[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "d6078f21514d310c7966d161a3bcf0cc7fd6ef63fb3b0444a0c7cea3551dbcd4"
 metafile = true
