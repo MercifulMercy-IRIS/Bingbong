@@ -396,6 +396,11 @@ hash = "32f940cb64f1634b81e87afe5a7742a95898266b9ecf69db96861f4248c769b4"
 metafile = true
 
 [[files]]
+file = "mods/ftbchunks.pw.toml"
+hash = "69b370de714f79353f2237880134653f1170aa055967a66da6c4aab8babeae8b"
+metafile = true
+
+[[files]]
 file = "mods/garnished-botany-pots.pw.toml"
 hash = "5d8d10dd825e3ec3d3083e005708facd0ceef90017d0d8bf321a8818f39abe9f"
 metafile = true
@@ -603,6 +608,11 @@ metafile = true
 [[files]]
 file = "mods/quark.pw.toml"
 hash = "1a15193250f49d292051ac43a1a6ec5fc91afde1df6ea146ee28257eb6cc3902"
+metafile = true
+
+[[files]]
+file = "mods/relics.pw.toml"
+hash = "9b77340cf2d78819d558e33d2b9a0cab39f35363410fff7c94108d6aa06c4d18"
 metafile = true
 
 [[files]]

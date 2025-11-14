@@ -1,0 +1,8 @@
+name = "Relics"
+filename = "relics-1.20.1-0.8.0.11.jar"
+side = "both"
+
+[download]
+url = "https://enviouslabs.com/relics-1.20.1-0.8.0.11.jar"
+hash-format = "sha256"
+hash = "eb67ef6da9631cac1ccacb542dce3e03f3f5f3594acb5f88647efc2cd8f8b15a"
