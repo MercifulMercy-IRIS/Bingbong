@@ -1,0 +1,8 @@
+name = "OreExcavator"
+filename = "oreexcavation-1.13.174.jar"
+side = "both"
+
+[download]
+url = "https://enviouslabs.com/oreexcavation-1.13.174.jar"
+hash-format = "sha256"
+hash = "a4a7386c125553848b3e448e150800f1a4ca748ed56134db85e5c2668e6f8d3f"

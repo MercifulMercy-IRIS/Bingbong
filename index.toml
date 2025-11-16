@@ -81,6 +81,11 @@ hash = "bfefb0134a8a0a36d13e7370f56d99017feba7b759ecca019679a051f87ef079"
 metafile = true
 
 [[files]]
+file = "mods/artifacts.pw.toml"
+hash = "d98e33b7326fa9f920adb6dc4e0004b899b967ea82ba6658b2c032e29f5dea95"
+metafile = true
+
+[[files]]
 file = "mods/attributefix.pw.toml"
 hash = "1911b9f2bc9debccc66d7762932f66975f111695df46168fa80a628d31b0cbed"
 metafile = true
@@ -361,6 +366,11 @@ hash = "585ce35e4e7acc00a8e538b52b10fc8adf6d48e19d7ec609601697aea9026502"
 metafile = true
 
 [[files]]
+file = "mods/fast-ip-ping.pw.toml"
+hash = "e331955f0214c4bbd1b0c006f2230991060a9a08b11bdb9c7fb329ea051726a0"
+metafile = true
+
+[[files]]
 file = "mods/fastsuite.pw.toml"
 hash = "7dacba55386a7379c0863cad691ec820fed8b1d2f4063a235dbf7d257ef10b5a"
 metafile = true
@@ -453,6 +463,11 @@ metafile = true
 [[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
 hash = "e65468a5aac2262747733a4ae8aba673f6b695426d4346fae2278f232ec99eae"
+metafile = true
+
+[[files]]
+file = "mods/justenoughguns.pw.toml"
+hash = "e1dd61f71ac743648b16135c612e5a0a2604a89c3a55b98449eb66275c7450f2"
 metafile = true
 
 [[files]]
@@ -586,8 +601,8 @@ hash = "91bb499327b1aba3644a105827ca28f6a99db53e7a9a3cb1c8937ceb5342d509"
 metafile = true
 
 [[files]]
-file = "mods/ore-harvester.pw.toml"
-hash = "0d56e83828da6a685586f69c4d5110d43644c14179188690f56c316950ea1bff"
+file = "mods/oreexcavator.pw.toml"
+hash = "e34da78dfdd321a6a754cec32753fcb6fddad289b43dfa157194f309dbd4f0e7"
 metafile = true
 
 [[files]]
@@ -601,6 +616,11 @@ hash = "faae43c7ba5a2d4086889a19794262559e9c185f2e1e0205d0b73c16fcfc2fd5"
 metafile = true
 
 [[files]]
+file = "mods/ping-wheel.pw.toml"
+hash = "2e0c3e6346392cc6e4b976709638fb60cc1cfa42f66b4030a36b515668ae2ce9"
+metafile = true
+
+[[files]]
 file = "mods/placebo.pw.toml"
 hash = "8ff6c7e48c75feffd68723e4d8c3dc6612c4845487757463826baec78667c79d"
 metafile = true
@@ -608,6 +628,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "2c3c0448ed22ce054cc33338bed223f73fbd9cb1b9f2613943b165980d61dbb4"
+metafile = true
+
+[[files]]
+file = "mods/productivebees.pw.toml"
+hash = "3017fa2627a2a126fa230ed5ba5e31193a6d35d793fbb7c57a1c4906550fb3c2"
 metafile = true
 
 [[files]]
@@ -628,6 +653,11 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "6b5c660e93a9cc570ca02a75e0ebf5107960fb39949877e9af7886f0c14483c2"
+metafile = true
+
+[[files]]
+file = "mods/rotten-flesh-to-leather-by-tia.pw.toml"
+hash = "e6d6f8230af425875346d15e3a6752e08cac13e6adbd07a185d1b1e5153acabc"
 metafile = true
 
 [[files]]
@@ -736,13 +766,13 @@ hash = "49649fc114ce9c2d2c7adc7e8f52a8e70d501ed02500f354411a284119dd017b"
 metafile = true
 
 [[files]]
-file = "mods/vintage-delight.pw.toml"
-hash = "5e68a8e05e2c81ffbe080f52f4802ae82ec6840d02e884f40b7f38c0b55c0d55"
+file = "mods/tree-harvester.pw.toml"
+hash = "3f092115f91d9900395b2eab5105d73adbaa37fe4cbcf26cb1c743d2e9baa4b8"
 metafile = true
 
 [[files]]
-file = "mods/vminus.pw.toml"
-hash = "df715305bd9dc0248a36410439857566df66ac689d64b834b5cf837001def6e7"
+file = "mods/vintage-delight.pw.toml"
+hash = "5e68a8e05e2c81ffbe080f52f4802ae82ec6840d02e884f40b7f38c0b55c0d55"
 metafile = true
 
 [[files]]

@@ -1,0 +1,8 @@
+name = "ProductiveBees"
+filename = "productivebees-1.20.1-12.6.0.jar"
+side = "both"
+
+[download]
+url = "https://enviouslabs.com/productivebees-1.20.1-12.6.0.jar"
+hash-format = "sha256"
+hash = "b728e5640fcfd0bd7137cabf475455588452ace89a3dd136333a60fdf7049af4"
