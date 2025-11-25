@@ -536,11 +536,6 @@ hash = "db486dc301235e27f542e447738d6d86a9bb680337e6a040ebc18632475d5be6"
 metafile = true
 
 [[files]]
-file = "mods/mekanism_extra.pw.toml"
-hash = "370459b1010a07c37550c3096057854735e1a6e43d71c48aa6fc2b4335d9bf79"
-metafile = true
-
-[[files]]
 file = "mods/mimi.pw.toml"
 hash = "26121dd0a01ce05187f1400824d603e598798d732c004bd4153c0a9f990b518b"
 metafile = true
