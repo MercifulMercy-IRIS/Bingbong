@@ -216,6 +216,11 @@ hash = "48fca5a4391972c66c0fe4f35e1a0c48bfddd81caff22a9db1cba3f657e93cb0"
 metafile = true
 
 [[files]]
+file = "mods/crafttweaker.pw.toml"
+hash = "f50e9deb4784f5445acadc1b5f52f80c762e01ea7a21a5b10811b90587ccd3e9"
+metafile = true
+
+[[files]]
 file = "mods/crash-assistant.pw.toml"
 hash = "bf40d2efbaebaf1224313c5afb58ee56e7b97a12986f7f1f8317936e613dc578"
 metafile = true
@@ -333,6 +338,11 @@ metafile = true
 [[files]]
 file = "mods/estrogen.pw.toml"
 hash = "7e286a073af5549f7b42a3a9b39af1e06e4d7ae6e8384a266f13394ef6557515"
+metafile = true
+
+[[files]]
+file = "mods/etstlib.pw.toml"
+hash = "fb26270da9aed6f4ac63c8893f0d0de7b9c8a74426c7a03ee22b6cd62a0f2c97"
 metafile = true
 
 [[files]]
@@ -523,6 +533,11 @@ metafile = true
 [[files]]
 file = "mods/mekanism.pw.toml"
 hash = "db486dc301235e27f542e447738d6d86a9bb680337e6a040ebc18632475d5be6"
+metafile = true
+
+[[files]]
+file = "mods/mekanism_extra.pw.toml"
+hash = "370459b1010a07c37550c3096057854735e1a6e43d71c48aa6fc2b4335d9bf79"
 metafile = true
 
 [[files]]
@@ -748,6 +763,11 @@ metafile = true
 [[files]]
 file = "mods/the-twilight-forest.pw.toml"
 hash = "9ce7f40ae273cbb03073f1e30a5d08c7d5e1f4682cd84fd9008506551d39bc52"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-advanced.pw.toml"
+hash = "b22265831b483472eb5457a84412443c19f5c392b5740ba18172092dd502bdb7"
 metafile = true
 
 [[files]]

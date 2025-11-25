@@ -1,0 +1,13 @@
+name = "Tinkers' Advanced"
+filename = "tinkers_advanced-3.0.0-beta.13.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8CK1n7Uz/versions/HmHd7S9a/tinkers_advanced-3.0.0-beta.13.jar"
+hash-format = "sha256"
+hash = "3a8397d060f69b00995b9b9122ff288e919193128cf7c6e0ba2e0ec2aa10c196"
+
+[update]
+[update.modrinth]
+mod-id = "8CK1n7Uz"
+version = "HmHd7S9a"
