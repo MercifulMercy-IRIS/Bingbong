@@ -761,11 +761,6 @@ hash = "9ce7f40ae273cbb03073f1e30a5d08c7d5e1f4682cd84fd9008506551d39bc52"
 metafile = true
 
 [[files]]
-file = "mods/tinkers-advanced.pw.toml"
-hash = "b22265831b483472eb5457a84412443c19f5c392b5740ba18172092dd502bdb7"
-metafile = true
-
-[[files]]
 file = "mods/tinkers-construct.pw.toml"
 hash = "57790ebd2f5c9272a0af83b90367cf565b597526031661639afca03e7e1442e7"
 metafile = true
